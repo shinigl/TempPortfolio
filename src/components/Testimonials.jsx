@@ -2,7 +2,7 @@ import React from 'react';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/css';
 import 'swiper/css/pagination';
-import sky from '../assets/sky.png';
+import sky from '../assets/Sky.png';
 import mentor from '../assets/Mentor.png';
 
 // Import required modules
