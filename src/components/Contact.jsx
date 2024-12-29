@@ -14,11 +14,8 @@ const Contact = () => {
               <h2 className='text-3xl font-bold mb-3 text-red-500'>Get in Touch</h2>
               <p className='mb-4 text-white/85'>I'm always open to new opportunities and collaboration. Feel free to reach out!</p>
               <div className='flex space-x-4'>
-                <a href="#" className='text-foreground/60 hover:text-foreground/80'>
-                <img src={facebook} alt="" className='h-6 w-6'/></a>
-                <a href="#" className='text-foreground/60 hover:text-foreground/80'>
-                <img src={instagram} alt="" className='h-6 w-6'/></a>
-                <a href="#" className='text-foreground/60 hover:text-foreground/80'>
+              
+                <a href="https://www.linkedin.com/in/aniket-kumar-shin/" className='text-foreground/60 hover:text-foreground/80'>
                 <img src={linkedin} alt="" className='h-6 w-6'/></a>
               </div>
                 <Lottie animationData={contact} className='w-[350px] mx-auto lg:w-[500px]'/>
